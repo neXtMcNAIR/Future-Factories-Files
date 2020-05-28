@@ -1,0 +1,11 @@
+			----------------------------------------------------------------------------------------------------
+TxSTEP2Cojt application
+Translation Beginning on: 25 October 2019 13:25:14
+----------------------------------------------------------------------------------------------------
+
+The command line:
+TxSTEP2Cojt C:\ProcessSimulate\Phase2Master\Library\Imported CAD Models\Lian Li PC-011 Dynamic (public).stp -extIdMod 1 -dest C:\ProcessSimulate\Phase2Master\Library\Resources\GeneralEquipment\Facilities\Screens -output Lian_Li_PC_011_Dynamic__public_.xml -emsClass PmCompoundResource;PmToolPrototype;PmToolInstance -l C:\ProcessSimulate\Phase2Master\Library\Resources\GeneralEquipment\Facilities\Screens\TxConvert2co_Lian_Li_PC_011_Dynamic__public_20191025_132513.log -insertComponent 
+
+
+INFO 	[CONVERT2CO_2008]	[2019_10_25_13:25:14]	Loaded configuration file: C:\Program Files\Tecnomatix\CADTranslators\dat\steptojt.config
+FATAL	[CONVERT2CO_5009]	[2019_10_25_13:25:14]	Failed to run the translator.

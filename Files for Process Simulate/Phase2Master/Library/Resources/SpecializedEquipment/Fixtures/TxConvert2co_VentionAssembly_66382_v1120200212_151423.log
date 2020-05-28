@@ -1,0 +1,11 @@
+			----------------------------------------------------------------------------------------------------
+TxSTEP2Cojt application
+Translation Beginning on: 12 February 2020 15:14:24
+----------------------------------------------------------------------------------------------------
+
+The command line:
+TxSTEP2Cojt C:\Users\anil\Downloads\VentionAssembly_66382_v11.STEP -extIdMod 1 -dest C:\Users\Public\Documents\ProcessSimulate\Phase2Master\Library\Resources\SpecializedEquipment\Fixtures -output VentionAssembly_66382_v11.xml -hierarchyType oneComp -emsClass PmCompoundResource;Fixture;PmToolInstance -l C:\Users\Public\Documents\ProcessSimulate\Phase2Master\Library\Resources\SpecializedEquipment\Fixtures\TxConvert2co_VentionAssembly_66382_v1120200212_151423.log -insertComponent 
+
+
+INFO 	[CONVERT2CO_2008]	[2020_02_12_15:14:24]	Loaded configuration file: C:\Program Files\Tecnomatix\CADTranslators\dat\steptojt.config
+FATAL	[CONVERT2CO_5009]	[2020_02_12_15:14:24]	Failed to run the translator.

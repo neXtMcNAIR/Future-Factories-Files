@@ -1,0 +1,6 @@
+INFO 	[JT2CO_2002]	[2019_10_25_13:27:23]	----------------------------------------------------------------------------------------------------
+INFO 	[JT2CO_2001]	[2019_10_25_13:27:23]	Created by TxJt2co application.
+INFO 	[JT2CO_2003]	[2019_10_25_13:27:23]	Conversion Beginning on : 2019_10_25_13:27:23
+INFO 	[JT2CO_2004]	[2019_10_25_13:27:23]	The command line: C:\Program Files\Tecnomatix\CADTranslators\TxJt2co.exe C:\ProcessSimulate\Phase2Master\Library\Imported CAD Models\Lian Li PC-011 Dynamic (public).jt -TxJT2cojt -extIdMod 1 -dest C:\ProcessSimulate\Phase2Master\Library\Resources\GeneralEquipment\Facilities\Screens -output Lian_Li_PC_011_Dynamic__public_.xml -emsClass PmCompoundResource;PmToolPrototype;PmToolInstance -l C:\ProcessSimulate\Phase2Master\Library\Resources\GeneralEquipment\Facilities\Screens\TxJt2co_Lian_Li_PC_011_Dynamic__public_20191025_132723.log -insertComponent 
+INFO 	[JT2CO_2002]	[2019_10_25_13:27:23]	----------------------------------------------------------------------------------------------------
+INFO 	[JT2CO_2006]	[2019_10_25_13:27:24]	Full Assembly conversion finished successfully!!! 

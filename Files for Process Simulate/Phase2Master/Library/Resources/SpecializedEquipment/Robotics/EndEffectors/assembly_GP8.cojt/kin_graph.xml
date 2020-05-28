@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<AddFlow Nodes="0" Links="0">
+  <Version>2.2.0.0</Version>
+  <DefaultLink>
+    <Rigid>False</Rigid>
+  </DefaultLink>
+  <DefaultNode>
+    <Shape Type="RectEdgeRaised" Orientation="so_0" />
+    <HighlightChildren>False</HighlightChildren>
+  </DefaultNode>
+  <Node Index="-1" Left="15" Top="15" Width="67" Height="27">
+    <FillColor>-1</FillColor>
+    <Text>fixed_link</Text>
+    <Tooltip>fixed_link</Tooltip>
+    <Url>{E2608C5E-D5D1-4D12-9D67-D159C3D7C368}</Url>
+  </Node>
+  <Node Index="-1" Left="115" Top="82" Width="67" Height="27">
+    <FillColor>-1</FillColor>
+    <Text>input_link</Text>
+    <Tooltip>input_link</Tooltip>
+    <Url>{CBEFB666-F034-462E-B804-28479C310F78}</Url>
+  </Node>
+  <Node Index="-1" Left="15" Top="149" Width="67" Height="27">
+    <FillColor>-1</FillColor>
+    <Text>coupler_link</Text>
+    <Tooltip>coupler_link</Tooltip>
+    <Url>{C4F1CA70-DFE2-42AB-AD36-2BE087267CBA}</Url>
+  </Node>
+  <Node Index="-1" Left="115" Top="216" Width="67" Height="27">
+    <FillColor>-1</FillColor>
+    <Text>output_link</Text>
+    <Tooltip>output_link</Tooltip>
+    <Url>{0EE8FEAA-F614-4864-85FD-2A373147FC6F}</Url>
+  </Node>
+  <Node Index="-1" Left="15" Top="283" Width="67" Height="27">
+    <FillColor>-1</FillColor>
+    <Text>dummy_link</Text>
+    <Tooltip>dummy_link</Tooltip>
+    <Url>{C55B8683-608F-41E0-A08D-763377F58FD7}</Url>
+  </Node>
+  <Node Index="-1" Left="15" Top="350" Width="67" Height="27">
+    <FillColor>-1</FillColor>
+    <Text>input_link1</Text>
+    <Tooltip>input_link1</Tooltip>
+    <Url>{CDE28B0B-0A02-4365-9ECD-88F0A0D37368}</Url>
+  </Node>
+  <Node Index="-1" Left="115" Top="417" Width="67" Height="27">
+    <FillColor>-1</FillColor>
+    <Text>coupler_link1</Text>
+    <Tooltip>coupler_link1</Tooltip>
+    <Url>{6FC3EAA8-E4CD-42B4-87DC-D765D92CC1FF}</Url>
+  </Node>
+  <Node Index="-1" Left="15" Top="484" Width="67" Height="27">
+    <FillColor>-1</FillColor>
+    <Text>output_link1</Text>
+    <Tooltip>output_link1</Tooltip>
+    <Url>{636D329C-24BE-4889-A404-9AB669D95E62}</Url>
+  </Node>
+  <Node Index="-1" Left="115" Top="551" Width="67" Height="27">
+    <FillColor>-1</FillColor>
+    <Text>dummy_link1</Text>
+    <Tooltip>dummy_link1</Tooltip>
+    <Url>{552DC0A6-4FC8-4BB4-B3F2-08DD3774E191}</Url>
+  </Node>
+</AddFlow>

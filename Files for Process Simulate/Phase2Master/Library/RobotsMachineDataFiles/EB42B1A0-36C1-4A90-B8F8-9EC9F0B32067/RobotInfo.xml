@@ -1,0 +1,9 @@
+<root>
+  <RobotInfo Date="11/20/2019">
+    <Instance Name="R04" />
+    <Vendor Name="YASKAWA" />
+    <Controller Name="Yaskawa-Inform" Version="YRC1000" />
+    <RCS Version="" />
+    <ManipulatorType Name="" />
+  </RobotInfo>
+</root>

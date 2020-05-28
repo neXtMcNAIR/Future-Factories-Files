@@ -1,0 +1,19 @@
+			----------------------------------------------------------------------------------------------------
+TxConvert2Co.exe application
+Translation Beginning on: 18 November 2019 16:28:54
+----------------------------------------------------------------------------------------------------
+
+The command line:
+TxConvert2Co.exe C:\Users\Public\Documents\ProcessSimulate\Phase2Master\Library\Parts\holder.cojt\Holder_jt.prt -cojt -extIdMod 1 -dest C:\Users\Public\Documents\ProcessSimulate\Phase2Master\Library -output Holder_jt.xml -emsClass PmCompoundPart;PmPartPrototype;PmPartInstance -l C:\Users\Public\Documents\ProcessSimulate\Phase2Master\Library\TxConvert2co_Holder_jt20191118_162854.log -insertComponent 
+
+
+INFO 	[CONVERT2CO_2008]	[2019_11_18_16:28:54]	Loaded configuration file: C:\Program Files\Siemens\NX 12.0\PVTRANS\tessUG.config
+INFO 	[CONVERT2CO_2003]	[2019_11_18_16:28:58]	Translator operation complete - succeeded in converting 1 parts.
+INFO 	[JT2CO_2002]	[2019_11_18_16:28:58]	----------------------------------------------------------------------------------------------------
+INFO 	[JT2CO_2001]	[2019_11_18_16:28:58]	Created by TxJt2co application.
+INFO 	[JT2CO_2003]	[2019_11_18_16:28:58]	Conversion Beginning on : 2019_11_18_16:28:58
+INFO 	[JT2CO_2004]	[2019_11_18_16:28:58]	The command line: jt2co.exe -dest C:\Users\Public\Documents\ProcessSimulate\Phase2Master\Library -f C:\Users\Public\Documents\ProcessSimulate\Phase2Master\Library\convert2co_jt2co_list.txt -AssemblyXMLOnly -output Holder_jt -l C:\Users\Public\Documents\ProcessSimulate\Phase2Master\Library\TxConvert2co_Holder_jt20191118_162854.log -v E -hierarchyType cell -TxJT2cojt -extIdMod 1 -emsClass PmCompoundPart;PmPartPrototype;PmPartInstance -insertComponent -originalComponentPath C:\Users\Public\Documents\ProcessSimulate\Phase2Master\Library\Parts\holder.cojt\Holder_jt.prt 
+INFO 	[JT2CO_2002]	[2019_11_18_16:28:58]	----------------------------------------------------------------------------------------------------
+INFO 	[JT2CO_2006]	[2019_11_18_16:29:00]	Full Assembly conversion finished successfully!!! 
+INFO 	[CONVERT2CO_2005]	[2019_11_18_16:29:00]	Called TxJt2co successfully.
+INFO 	[CONVERT2CO_2002]	[2019_11_18_16:29:00]	Conversion process complete.

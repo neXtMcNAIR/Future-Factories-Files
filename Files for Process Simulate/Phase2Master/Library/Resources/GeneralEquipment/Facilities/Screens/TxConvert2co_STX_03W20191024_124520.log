@@ -1,0 +1,11 @@
+			----------------------------------------------------------------------------------------------------
+TxIGES2Cojt application
+Translation Beginning on: 24 October 2019 12:45:21
+----------------------------------------------------------------------------------------------------
+
+The command line:
+TxIGES2Cojt C:\ProcessSimulate\Phase2Master\Library\Imported CAD Models\STX-03W_cad\STX-03W.igs -extIdMod 1 -dest C:\ProcessSimulate\Phase2Master\Library\Resources\GeneralEquipment\Facilities\Screens -output STX_03W.xml -hierarchyType monoSubAssy -emsClass PmCompoundResource;PmToolPrototype;PmToolInstance -l C:\ProcessSimulate\Phase2Master\Library\Resources\GeneralEquipment\Facilities\Screens\TxConvert2co_STX_03W20191024_124520.log -insertComponent 
+
+
+INFO 	[CONVERT2CO_2008]	[2019_10_24_12:45:21]	Loaded configuration file: C:\Program Files\Tecnomatix\CADTranslators\dat\igestojt.config
+FATAL	[CONVERT2CO_5009]	[2019_10_24_12:45:21]	Failed to run the translator.
